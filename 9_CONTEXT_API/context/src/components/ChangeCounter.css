@@ -1,0 +1,11 @@
+.counter {
+    margin: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.counter:hover {
+    background-color: darkgray;
+}
